@@ -19,10 +19,10 @@
    run in command prompt:<br />
  
  
- `pip3 install termcolor` <br />
+ `pip install termcolor` <br />
  
  
- `python3 password.py` <br />
+ `python password.py` <br />
  
  
   enjoy <3 Odima KOKAB :) .
